@@ -1,4 +1,4 @@
 # DC-demo
-# This is my first prioject
+# This is my first project
 <br>
 Name-Durgesh Chavan
